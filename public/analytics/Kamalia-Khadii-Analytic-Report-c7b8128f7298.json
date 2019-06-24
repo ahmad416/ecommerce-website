@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kamalia-khadii-analytic-report",
+  "private_key_id": "c7b8128f729888f2fdc24d43fc7ed87b1151b032",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6nrzlOr9d0udc\nuNL4B2jc5DBaViCXHt/g6YFPZf5gjDRws10oLxv/YpZialdvRPfNP3C7zoim9qdr\nwq1Dx0yT8SOQgiClQoixCq0m2zRbTM8VV6ck04HeBWc7+VF9rVMIJsagw0N2RvMh\nn6hYHLYI4pptp4In5TcNe26OGwGi+ckGBBb82EI9jYLGPX7KknWU9VZQfRxkqFYp\nX5VspuOPj3MSoxLS51Ajn78BYndlnPCpnIIRXzXNd/40p0dqpJpkN238RD1VUZiK\nvwC9qm+pQtlWZ/hvlgVE89X+ULqbZ3w+84bcF5bKAvsaMV6YMEVSVk3UljaHLXyI\n0VQlzb47AgMBAAECggEAMIFVw5bzamWI8Raw7vquDMvarYA5VE4YDpNiosp1xY5r\niudzzSABfO2Y/Nd7Bla8ucJFgOr7pbnyZhXhhv5kLwe8ILFR3uJeOPX3b2QGRby/\nDmML9Ixs8tIgtPvmbG4CaNn7Qom+HR3vz8t5q/06azDKxrmFIO14065DW/g1ArDL\nbNdekq6x5jt9OCRbb9LKZuWPV7ybYt8VgKcuBPyAN/OQ8GAMEa0ydN35FpqnGM/Z\neNnXeWeUvCN9+HolUiaVcERyLeOIqtFV6O7DtM7kB44ub7HK96X/x5hH0TxrSidF\nKAHDDSZRiewaEYfH/pmVb46L4N7e91TuiwgNr3E9IQKBgQD08DSiFmdaEvFQobYW\n7CpKMacxOeBY+NQFTMM3MVKJkVD4iiK18rOV4Wvl68GDa1+IxbRKmwOe8xFhG68I\n/LwIRohpS4R+ncSXlBTCJCS1bN5HFAg4NHyjIawqMFhUG30s3zs0VkBIHF0+PBL2\n/hYFWR9Bvcx3wo5o7jINVFvnQwKBgQDDDEzdj0kDBiEmCPj4LBoqs4eFZzo3yCEE\nXooNjgo92j0FwrVB42YxMf68q+PlSZPY1gAymrYmiEe+MPviRLso9j/6pWvvrOkP\nHdmTVpr3L5XOQYdqub8/2Sg9YWYh7gmj78WfN0e2UCTSNspuW/MssIGRfjwd1kRG\nT8UbuSTxqQKBgDM7ewbcQMnqZGdFK90nkMDsGdiGDpMNmOty3vJQcr8rkhAqdJAy\nL7YN7I+u/E8MynLFR6zDN8KrfNse+0GZ+4qPlkDP9uq0/UXnR2BERxlbqDKd0gpP\nkDJe/K/mZNNS3J/iIXQVBmUO6cH2ttDK3LhJp+wMUxRJsZfpGrcHCiIZAoGBAJQB\nB2qwSZTT19+Gu3WF8a0pYdKmzBR79iHcoyE6ASeCLP/sCaKfrXHzH/uG632XYWsO\nqEO+Bi4jB12Yyemege7JPS8yyz6plIf1/J3DAABFyYUjUGB55lfKrrA08k0Y1ZPi\nY7E3P2FmWypwjRdFCreEkC0Y/wEdD93Sth0dVp1RAoGBALDreHA7SfsMgnwp2ACM\nKlQu/Y0xCM3qBnbtgkIVR0ljbPJ8E4zHjwWScs1vZvKgR+ORg5HV+gJuu40feUT6\nYzuZcumOrT0So0BHgffwJ9NyIHtBzbvEtz/l+gHs1x9HPIR9cYi0BxzRe1qgQbnS\nuSWcoaU6Kg2Uj3d6R8Rl9Ai3\n-----END PRIVATE KEY-----\n",
+  "client_email": "kamalia-khaddi-analytic-report@kamalia-khadii-analytic-report.iam.gserviceaccount.com",
+  "client_id": "778374518625-t3kkgpokc52lctqia4n1tl5al4ibteg2.apps.googleusercontent.com",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kamalia-khaddi-analytic-report%40kamalia-khadii-analytic-report.iam.gserviceaccount.com"
+}

@@ -1,0 +1,17 @@
+/*Custom Css Rules File*/
+
+/*Ribbon Rules*/
+.ribbon.red-label:before {
+    background: #cc2900; }
+
+.ribbon.red-label:after {
+    border-left: 10px solid #cc2900; }
+
+.ribbon.red-label span {
+    color: #fff; }
+/*End of Ribbon Rule*/
+/*Single Product Out of Stock Label*/
+.ribbon-out-of-stock::before{
+    width: 127% !important;
+    left: -20.5px !important;
+}
